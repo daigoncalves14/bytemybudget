@@ -9,5 +9,6 @@ public enum Category {
     ENTERTAINMENT,
     CLOTHING,
     SALARY,
+    DRINKS,
     OTHER
 }
